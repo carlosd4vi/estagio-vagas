@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: redirect.php
+Disallow: db/conexao.php
+Disallow: db/enviar_dados.php
+Disallow: problems/403.php
+Disallow: problems/404.php
+Disallow: problems/500.php
+Disallow: restrito/login.php
+Disallow: restrito/painel.php
+Disallow: restrito/sair.php
+
+Sitemap: https://estagiofortaleza.gt.tc/index.php
