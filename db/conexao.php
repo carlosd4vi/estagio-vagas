@@ -1,7 +1,7 @@
 <?php
-$host = 'localhost';
-$dbname = 'estagiofortaleza';
-$username = 'root';
+$host = '';
+$dbname = '';
+$username = '';
 $password = '';
 
 try {
